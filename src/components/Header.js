@@ -2,6 +2,7 @@ import React, { useEffect } from "react";
 import { Link } from "react-router-dom";
 
 import GoogleAuth from "./GoogleAuth";
+// import GoogleAuth2 from "./GoogleAuth2";
 
 const Header = () => {
   return (
