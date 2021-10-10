@@ -7,7 +7,7 @@ import {
   CREATE_STREAM,
   EDIT_STREAM,
 } from "../actions/types";
-
+ 
 const streamReducer = (state = {}, action) => {
   switch (action.type) {
     case FETCH_STREAM:
