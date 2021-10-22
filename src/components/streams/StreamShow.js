@@ -18,7 +18,11 @@ class StreamShow extends React.Component {
   };
 
   componentDidUpdate(){
-      this.buildPlayer()
+      this.player.destroy()
+  }
+
+  componentWillUnmount(){
+    console.log("i was unmounted")
   }
 
   buildPlayer() {
