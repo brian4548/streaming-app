@@ -32,3 +32,8 @@ This app is a streaming app similar twitch. It utlizes google's Oauth for sign-i
 * Before starting your stream you will need to clone the rtmp server.
 * Once you clone the server run npm start in the terminal.
 * Now you can start your stream! Happy Streaming!
+
+## Coming soon:
+
+* Rails backend to replace json-server
+* UI changes
