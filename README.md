@@ -37,3 +37,4 @@ This app is a streaming app similar twitch. It utlizes google's Oauth for sign-i
 
 * Rails backend to replace json-server
 * UI changes
+* Hooks refactor
