@@ -29,7 +29,7 @@ This app is a streaming app similar twitch. It utlizes google's Oauth for sign-i
 * From there, input the last digit(the number id) of your stream's url into the textbox that says 'stream key'.
 * For the textbox that says 'server' input rtmp://localhost/live/
 
-* Before starting your stream you will need to clone the rtmp server.
+* Before starting your stream you will need to clone the rtmp server from here: https://github.com/brian4548/rtmp-server
 * Once you clone the server run 'npm start' in the terminal.
 * Now you can start your stream! Happy Streaming!
 
