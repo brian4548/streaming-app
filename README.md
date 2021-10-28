@@ -1,6 +1,6 @@
 # JoltTV Streaming App!
 
-This app is a streaming app similar twitch. It utlizes google's Oauth for sign-in. Once signed in you are granted access to feature such as creating a stream, deleting a stream, editing a stream, and streaming. 
+This app is a streaming app similar to twitch. It utlizes google's Oauth for sign-in. Once signed in you are granted access to features such as creating a stream, deleting a stream, editing a stream, and streaming. 
 
 <img src="https://i.imgur.com/CrKdz1b.png" />
 
